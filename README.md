@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayu Krisna</h1>
 <h3 align="center">University student focusing on Android development</h3>
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Kotlin** and **Flutter**
 
 - 📫 How to reach me **ayuukrisn@gmail.com**
 
