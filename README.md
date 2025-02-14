@@ -94,6 +94,10 @@ FindResto developed as part of the "Belajar Fundamental Aplikasi Flutter" course
 
 
 <hr>
-<h2 align="left">Current Streak and my top language?</h2>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayukrisn&" alt="ayukrisn" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayukrisn&layout=compact&" alt="ayukrisn" /></p>
+<h2 align="left">Current streak and my top language?</h2>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+ <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayukrisn&" alt="ayukrisn" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayukrisn&layout=compact&langs_count=8&card_width=320" />
+</a>
