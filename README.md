@@ -1,21 +1,99 @@
-<h1 align="center">Hi 👋, I'm Ayu Krisna</h1>
-<h3 align="center">University student focusing on Android development</h3>
+<h1 align="center">Hi there, I'm Ayu Krisna 🍑🌿</h1>
+<h3 align="center">Information Technology student interested in Android development, especially in Kotlin and Flutter.</h3> <br>
 
-- 🌱 I’m currently learning **Kotlin** and **Flutter**
 
-- 📫 How to reach me **ayuukrisn@gmail.com**
+<h2>Little facts about me?</h2>
+🌱 I’m currently learning <b>Kotlin and Flutter application development, but also interested in UI/UX Designs</b><br>
+🔍 Currently seeking <b>internship and part-time opportunity related to my field</b><br>
+👩‍🏫 Also teach elementary - high school students about coding <br>
+📫 You can reach me on email <b>ayuukrisn@gmail.com</b> or <a href="https://www.linkedin.com/in/igustiayukrisnakusumadewi/">Linkedin</a> <br>
 
-<h3 align="left">Connect with me:</h3>
+<hr>
+
+<h2>My recent projects!</h2>
+<h3>
+  <a href="https://github.com/skinsift/skinsift">SkinSift: Android application platform made with Kotlin and Jetpack Compose</a>
+</h3>
+SkinSift is a cutting-edge skincare application that empowers users to make informed and confident skincare decisions. By combining advanced OCR technology with personalized recommendations, SkinSift simplifies ingredient analysis and provides tailored product suggestions based on individual skin needs. As the Mobile Developer, I was responsible in delivering a seamless and intuitive user experience using Kotlin and Jetpack Compose. My role involved designing and implementing core features, including ingredient scanning, AI-powered product recommendations, and an interactive UI that enhances usability. I also optimized app performance, ensured smooth API integration, and collaborated closely with the backend team to streamline data processing.
+<h3>
+  <a href="https://github.com/ayukrisn/dicoding-story">DicodingStory: Android application platform made with Kotlin and Jetpack Compose</a>
+</h3>
+DicodingStory is an Android application developed as part of the "Belajar Pengembangan Aplikasi Android Intermediate" course on Dicoding. This project demonstrates the implementation of Clean Architecture using Kotlin and Jetpack Compose.
+<h3>
+  <a href="https://github.com/ayukrisn/find-resto">FindResto (on progress): Flutter based application </a>
+</h3>
+FindResto developed as part of the "Belajar Fundamental Aplikasi Flutter" course on Dicoding application.
+
+<hr>
+
+<h2 align="left">Connect with me</h2>
 <p align="left">
+<a href="https://linkedin.com/in/igustiayukrisnakusumadewi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igustiayukrisnakusumadewi" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Github Statistic</h3>
-<p align="left">
-<a href="https://github.com/ayukrisn">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ayukrisn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayukrisn&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<hr>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<h2 align="left">Languages and Tools</h2>
+<h3>Languages</h3>
+<table border="1" style="text-align: center">
+  <tr>
+    <th>Python</th>
+    <th>Dart</th>
+    <th>C</th>
+    <th>Java</th>
+    <th>JavaScript</th>
+    <th>Kotlin</th>
+    <th>PHP</th>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="40" height="40"/></td>
+  </tr>
+</table>
+
+<h3>Frameworks & Libraries</h3>
+<table border="1">
+  <tr>
+    <th>Bootstrap</th>
+    <th>Flutter</th>
+    <th>Jetpack Compose</th>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></td>
+    <td><img src="https://user-images.githubusercontent.com/29678011/201169741-7f95aae5-4cf7-462c-8cbd-e4dc5b0b2346.svg" alt="Jetpack Compose" width="40" height="40"/></td>
+  </tr>
+</table>
+
+<h3>Environments & Tools</h3>
+<table border="1">
+  <tr>
+    <th>Android</th>
+    <th>Git</th>
+    <th>Figma</th>
+    <th>MariaDB</th>
+    <th>MongoDB</th>
+    <th>MySQL</th>
+    <th>Laravel</th>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></td>
+     <td><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="40" height="40"/></td>
+  </tr>
+</table>
+
+
+<hr>
+<h2 align="left">Current Streak and my top language?</h2>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayukrisn&" alt="ayukrisn" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayukrisn&layout=compact&" alt="ayukrisn" /></p>
