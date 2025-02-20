@@ -3,8 +3,9 @@
 
 
 <h2>Little facts about me?</h2>
-🌱 I’m currently learning <b>Kotlin and Flutter application development, but also interested in UI/UX Designs</b><br>
+🌱 I’m currently learning <b>Kotlin and Flutter application development</b><br>
 🔍 Currently seeking <b>internship and part-time opportunity related to my field</b><br>
+💻 Not only limited to Mobile Dev, but I am also interested in Frontend Website Development and UI/UX Designs</b><br>
 👩‍🏫 Also teach elementary - high school students about coding <br>
 📫 You can reach me on email <b>ayuukrisn@gmail.com</b> or <a href="https://www.linkedin.com/in/igustiayukrisnakusumadewi/">Linkedin</a> <br>
 
@@ -62,11 +63,13 @@ FindResto developed as part of the "Belajar Fundamental Aplikasi Flutter" course
     <th>Bootstrap</th>
     <th>Flutter</th>
     <th>Jetpack Compose</th>
+    <th>Laravel</th>
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></td>
     <td><img src="https://user-images.githubusercontent.com/29678011/201169741-7f95aae5-4cf7-462c-8cbd-e4dc5b0b2346.svg" alt="Jetpack Compose" width="40" height="40"/></td>
+ <td><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="40" height="40"/></td>
   </tr>
 </table>
 
@@ -79,7 +82,7 @@ FindResto developed as part of the "Belajar Fundamental Aplikasi Flutter" course
     <th>MariaDB</th>
     <th>MongoDB</th>
     <th>MySQL</th>
-    <th>Laravel</th>
+    
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></td>
@@ -88,7 +91,7 @@ FindResto developed as part of the "Belajar Fundamental Aplikasi Flutter" course
     <td><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></td>
-     <td><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="40" height="40"/></td>
+     
   </tr>
 </table>
 
